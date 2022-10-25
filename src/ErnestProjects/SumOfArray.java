@@ -1,4 +1,4 @@
-package ErnestProject;
+package ErnestProjects;
 
 public class SumOfArray {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ErnestProject;
+package ErnestProjects;
 
 // Create an Array that calculates the average of numbers
 

@@ -1,6 +1,6 @@
 package tdd.Phone_3310;
 
-import ErnestProject.Phone_3310;
+import ErnestProjects.Phone_3310;
 
 import java.util.Scanner;
 

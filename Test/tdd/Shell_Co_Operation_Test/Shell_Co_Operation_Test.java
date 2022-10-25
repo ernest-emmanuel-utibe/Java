@@ -1,6 +1,6 @@
 package tdd.Shell_Co_Operation_Test;
 
-import ErnestProject.Shell_Co_Operations;
+import ErnestProjects.Shell_Co_Operations;
 
 public class Shell_Co_Operation_Test {
     public static void main(String[] args) {

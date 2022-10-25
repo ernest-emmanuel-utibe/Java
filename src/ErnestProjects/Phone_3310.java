@@ -1,4 +1,4 @@
-package ErnestProject;
+package ErnestProjects;
 
 import java.util.Scanner;
 

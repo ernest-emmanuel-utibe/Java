@@ -1,4 +1,4 @@
-package ErnestProject;
+package ErnestProjects;
 
 public class StudentTest {
     public static void main(String[] args) {

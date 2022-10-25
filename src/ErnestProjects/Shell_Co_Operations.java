@@ -1,4 +1,4 @@
-package ErnestProject;
+package ErnestProjects;
 
 public class Shell_Co_Operations {
     private final String firstName;

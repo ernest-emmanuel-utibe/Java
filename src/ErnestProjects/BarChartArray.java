@@ -1,4 +1,4 @@
-package ErnestProject;
+package ErnestProjects;
 
 // Create an Array that shows the Barchart of grades
 

@@ -1,4 +1,4 @@
-package ErnestProject;
+package ErnestProjects;
 
 
 // Create an Array that prints out colors

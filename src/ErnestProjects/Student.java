@@ -1,4 +1,4 @@
-package ErnestProject;
+package ErnestProjects;
 
 public class Student {
     public String firstName;

@@ -1,4 +1,4 @@
-package ErnestProject;
+package ErnestProjects;
 
 // Creating  a method and supplying a parameter of an array
 

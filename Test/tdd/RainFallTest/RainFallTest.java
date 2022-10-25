@@ -1,6 +1,6 @@
 package tdd.RainFallTest;
 
-import ErnestProject.RainFallInLagos;
+import ErnestProjects.RainFallInLagos;
 import org.testng.annotations.Test;
 
 import static org.testng.AssertJUnit.assertEquals;

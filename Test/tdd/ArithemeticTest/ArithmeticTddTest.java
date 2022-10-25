@@ -1,6 +1,6 @@
 package tdd.ArithemeticTest;
 
-import ErnestProject.ArithmeticTdd;
+import ErnestProjects.ArithmeticTdd;
 import org.testng.annotations.Test;
 
 import static org.testng.AssertJUnit.assertEquals;

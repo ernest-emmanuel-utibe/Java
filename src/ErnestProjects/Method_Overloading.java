@@ -1,4 +1,4 @@
-package ErnestProject;
+package ErnestProjects;
 
 public class Method_Overloading {
     public String buyPizza(String where) {

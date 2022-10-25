@@ -1,4 +1,4 @@
-package ErnestProject;
+package ErnestProjects;
 
 public class RainFallInLagos {
     public static String[] month = {"January", "February", "March", "April", "May", "June", "July", "August",

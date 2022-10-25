@@ -13,22 +13,41 @@ public class Comparing_Integers {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
 
-        int num1;
-        int num2;
+        System.out.println("Enter an integer: ");
+        int number = s.nextInt();
 
-        System.out.println("Enter first integer: ");
-        num1 = s.nextInt();
-        System.out.println("Enter second integer: ");
-        num2 = s.nextInt();
 
-        if (num1 > num2) {
-            System.out.printf("%d is greater than %d", num1,num2);
+        if(number > 100) {
+            System.out.printf("%d > 100%n", number);
         }
-        if (num1 < num2) {
-            System.out.printf("%d is lesser then %d", num2, num1);
+
+        if(number < 100) {
+            System.out.printf("%d < 100%n", number);
         }
-        if (num1 == num2) {
-            System.out.println("Number is equal");
+
+        if(number != 100) {
+            System.out.printf("%d != 100%n", number);
         }
+
+        if(number == 100) {
+            System.out.printf("%d == 100%n", number);
+        }
+
+        if(number * number > 100) {
+            System.out.printf("%d > 100%n", number * number);
+        }
+
+        if(number * number < 100) {
+            System.out.printf("%d < 100%n", number * number);
+        }
+
+        if(number * number != 100) {
+            System.out.printf("%d != 100%n", number * number);
+        }
+
+        if(number * number == 100) {
+            System.out.printf("%d == 100%n", number * number);
+        }
+
     }
 }

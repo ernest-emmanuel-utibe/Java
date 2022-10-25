@@ -27,7 +27,7 @@ public class Arithmetic_Smallest_Largest {
         num1 = s.nextInt();
         System.out.println("Enter the second integer: ");
         num2 = s.nextInt();
-        System.out.println("Enter th third integer: ");
+        System.out.println("Enter the third integer: ");
         num3 = s.nextInt();
 
         sum = num1 + num2 + num3;

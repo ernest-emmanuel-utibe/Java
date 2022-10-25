@@ -1,4 +1,4 @@
-package SelfPractice;
+package ErnestProject;
 
 public class Method_Overloading {
     public String buyPizza(String where) {

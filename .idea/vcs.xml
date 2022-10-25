@@ -5,5 +5,8 @@
     <mapping directory="$PROJECT_DIR$/src/Chapter1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/Chapter4/Chapter1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/ChibuzorAssignment" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ChibuzorTask" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ChibuzorTasks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Grace_Assignment" vcs="Git" />
   </component>
 </project>

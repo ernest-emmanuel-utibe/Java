@@ -1,4 +1,4 @@
-package SelfPractice;
+package ErnestProject;
 
 public class ArithmeticTdd {
     public  int  number;

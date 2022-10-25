@@ -1,4 +1,4 @@
-package SelfPractice;
+package ErnestProject;
 
 // Create an Array that multiplies ll the numbers
 

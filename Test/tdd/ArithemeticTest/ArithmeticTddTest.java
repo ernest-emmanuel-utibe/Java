@@ -1,6 +1,6 @@
-package SelfPractice;
+package tdd.ArithemeticTest;
 
-import SelfPractice.ArithmeticTdd;
+import ErnestProject.ArithmeticTdd;
 import org.testng.annotations.Test;
 
 import static org.testng.AssertJUnit.assertEquals;

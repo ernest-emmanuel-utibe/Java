@@ -1,4 +1,4 @@
-package SelfPractice;
+package ErnestProject;
 
 // Create an Array that shows the Barchart of grades
 
@@ -20,5 +20,6 @@ public class BarChartArray {
             }
             System.out.println();
         }
+
     }
 }

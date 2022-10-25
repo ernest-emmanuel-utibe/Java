@@ -1,4 +1,4 @@
-package SelfPractice;
+package ErnestProject;
 
 import java.security.SecureRandom;
 
